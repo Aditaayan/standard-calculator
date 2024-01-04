@@ -155,9 +155,10 @@ h1{
 }
 ```
 ## OUTPUT:
+![293578828-5ef12c8e-ea7e-4f7b-8a5e-aedfec014ca5](https://github.com/MoenishBaalan/standard-calculator/assets/147473394/e53355a5-a190-46d7-8ee4-06ebd2bb9937)
 
 
-![calculator_pic](https://github.com/MoenishBaalan/standard-calculator/assets/147473396/5ef12c8e-ea7e-4f7b-8a5e-aedfec014ca5)
+
 
 
 ## Result:
